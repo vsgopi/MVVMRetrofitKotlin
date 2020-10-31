@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMRetrofit</string>
+    <string name="userName">username</string>
+    <string name="email">email</string>
+</resources>
